@@ -1,4 +1,4 @@
-## Repositório - Trabalho Final de Inteligência Computacional
+## Inteligência Computacional
 
 Este repositório contém arquivos referentes ao trabalho final da disciplina de Inteligência Computacional (ELT 451) da UFV , que aborda uma análise comparativa entre as técnicas de Redes Neurais Convolucionais (CNN) e Lógica Fuzzy na tarefa de classificação de imagens de gestos estáticos de Libras.
 
