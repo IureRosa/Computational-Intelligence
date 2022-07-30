@@ -18,7 +18,7 @@ Xt = cell2mat(Xt);
 fclose(fileID);
 
 Yt = treinada(Xt')';
-save('exemplosubmissaomlp_90423.txt','Yt','-ascii')
+save('exemplosubmissaomlp_90688.txt','Yt','-ascii')
 
 Ypt = treinada(Xp')';
 plot(Yp); hold on; plot(Ypt)

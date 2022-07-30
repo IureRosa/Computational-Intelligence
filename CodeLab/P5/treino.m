@@ -55,7 +55,7 @@ fclose(fileID);
 
 Yt = teste(Xt,xn,Ys(end),yn,W);
 
-save('exemplosubmissaoadaline_90423.txt','Yt','-ascii')
+save('exemplosubmissaoadaline_90688.txt','Yt','-ascii')
 
 figure
 plot(Yt) 
