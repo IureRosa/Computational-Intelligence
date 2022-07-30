@@ -21,8 +21,4 @@ Para executar os scripts de treinamento dos modelos é necessário possuir as de
 
 * Execute os scripts normalmente em uma IDE Python ou via terminal : ```python CNN_train.py ```
 
-  
-
-#### Referências :link:
-
-* Conjunto de dados disponível neste [repositório](https://github.com/lucaaslb/cnn-libras) do autor [Lucas Lacerda](https://github.com/lucaaslb).
+ 
