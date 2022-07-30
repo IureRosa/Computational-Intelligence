@@ -2,6 +2,8 @@
 
 Este repositório contém arquivos referentes ao trabalho final da disciplina de Inteligência Computacional (ELT 451) da UFV , que aborda uma análise comparativa entre as técnicas de Redes Neurais Convolucionais (CNN) e Lógica Fuzzy na tarefa de classificação de imagens de gestos estáticos de Libras.
 
+O intuito deste trabalho é comparar essas duas técnicas quanto ao reconhecimento de gestos estáticos aplicados a Libras.
+
 #### Diretórios :file_folder:
 
 * *dataset_full* : contém o conjunto de dados utilizado para treino / validação e teste dos modelos.
